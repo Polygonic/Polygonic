@@ -1,16 +1,14 @@
-## Hi there 👋
+# Polygonic/DocLynx
+[![I just know some of this](https://skillicons.dev/icons?i=debian,kali,linux,bash,python,redhat,vim,neovim,nano)](https://skillicons.dev)
+#
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,html,css,discord,github" alt="I just know some of this" width="200" />
+</a>
+![1372963](https://github-profile-trophy.vercel.app/?username=Polygonic&theme=dracula)
 
-<!--
-**Polygonic/Polygonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://tryhackme-badges.s3.amazonaws.com/DocLynx.png" alt="Your Image Badge" />
+<img src="https://www.codewars.com/users/Polygonic/badges/large" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://assets.tryhackme.com/room-badges/378e458a7619aaeccd45263d4fce4fc3.png" />
+
+
