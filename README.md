@@ -1,4 +1,4 @@
-# Polygonic/DocLynx
+# Polygonic
 [![I just know some of this](https://skillicons.dev/icons?i=debian,kali,linux,bash,python,redhat,vim,neovim,nano)](https://skillicons.dev)
 #
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,html,css,discord,github" alt="I just know some of this" width="200" />
