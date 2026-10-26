@@ -38,8 +38,15 @@
   
   <br><br>
 
-  <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Polygonic.png" alt="TryHackMe Badge" height="100" />
-<img src="https://assets.tryhackme.com/room-badges/378e458a7619aaeccd45263d4fce4fc3.png" alt="TryHackMe Room Badge" height="100" />
-  </p>
+<p align="center">
+  <!-- Clickable Profile Badge -->
+  <a href="https://tryhackme.com/p/Polygonic" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Polygonic.png?v=1" alt="TryHackMe Profile Badge" height="100" />
+  </a>
+
+  <!-- Clickable Room Badge -->
+  <a href="https://tryhackme.com/room/linuxfundamentalspart1" target="_blank">
+    <img src="https://assets.tryhackme.com/room-badges/378e458a7619aaeccd45263d4fce4fc3.png" alt="TryHackMe Room Badge" height="100" />
+  </a>
+</p>
 </div>
